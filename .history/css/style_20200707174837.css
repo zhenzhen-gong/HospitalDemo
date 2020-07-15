@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* top部分样式 */
+.top{
+    height: 30px;
+    background: #f5f5f5;
+}
+.header{
+    height: 96px;
+}
+.nav{
+    height: 36px;
+    background: #1fa4f0;
+}
+.banner{
+    height: 432px;
+    width: 810px;
+    margin: 0,auto;
+    padding-left: 190px;
+}
+.banner-slider{
+
+}
